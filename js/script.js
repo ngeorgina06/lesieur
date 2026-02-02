@@ -9,7 +9,9 @@ btPlus.addEventListener('click',fouvreferme);
 
 function fouvreferme(){
 
-    /* si l conteneur existe dans l'état ou il est, rajoute cette classe. Sinon enlève. */
+    /* si le conteneur existe dans l'état ou il est, rajoute cette classe. Sinon enlève. */
     conteneur.classList.toggle('conteneur-transports-invisible')
 
 };
+
+/* point virgule après accolades */
