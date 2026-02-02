@@ -123,3 +123,31 @@ h3 {
     grid-template-columns: 1fr 1fr 1fr;
     gap: 60px;
 }
+
+.transport{
+    text-align: center;
+}
+
+.transport p{
+    margin-top: 5px;
+}
+
+/* FOOTER */
+
+.menu-social a{
+    display: block;
+    height: 32px;
+    width: 32px;
+}
+
+footer .wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu-social{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
