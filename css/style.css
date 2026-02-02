@@ -170,3 +170,9 @@ footer {
 .linkedin a:hover {
     background-color: #0a66c2;
 }
+
+/* aide stylistique */
+
+.conteneur-transports-invisible{
+    display: none;
+}
